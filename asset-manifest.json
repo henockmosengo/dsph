@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/dsph/static/css/main.a3e74e7c.css",
+    "main.js": "/dsph/static/js/main.bba0d19c.js",
+    "static/js/787.07cc8797.chunk.js": "/dsph/static/js/787.07cc8797.chunk.js",
+    "static/media/Fatshi consult_0.png": "/dsph/static/media/Fatshi consult_0.223e8cd9cc4af53f2ba1.png",
+    "static/media/directrice.png": "/dsph/static/media/directrice.6351d13b4a96bacef16e.png",
+    "static/media/R (5).jpg": "/dsph/static/media/R (5).e71692238d0caa5618c7.jpg",
+    "static/media/R (3).jpg": "/dsph/static/media/R (3).d225df1b100400c851ef.jpg",
+    "static/media/R (4).jpg": "/dsph/static/media/R (4).2f16797b45b0fd424622.jpg",
+    "static/media/R.jpg": "/dsph/static/media/R.a8cfdb1b251906a46c10.jpg",
+    "static/media/logo_ministere).png": "/dsph/static/media/logo_ministere).daa9db70edbdb20799d5.png",
+    "static/media/DrapeauUE-rvbmention-18-1024x767.png": "/dsph/static/media/DrapeauUE-rvbmention-18-1024x767.ec197ab0c38cc0c04ddf.png",
+    "static/media/2-logo_Ambassade-de-Belgique_300dpi-1024x324.png": "/dsph/static/media/2-logo_Ambassade-de-Belgique_300dpi-1024x324.7108e9d0a9da73ba7005.png",
+    "static/media/Logo_OIM.svg-1024x384.png": "/dsph/static/media/Logo_OIM.svg-1024x384.8054c9a713418ac6865f.png",
+    "static/media/R (1).jpg": "/dsph/static/media/R (1).f9897c611f5342226534.jpg",
+    "static/media/800px-UNFPA_logo.svg.png": "/dsph/static/media/800px-UNFPA_logo.svg.68b2fb30b0a1b2674bef.png",
+    "static/media/undp-logominAS.png": "/dsph/static/media/undp-logominAS.57f3ac5b1b4b7a4862cd.png",
+    "static/media/R (2).jpg": "/dsph/static/media/R (2).9bfb8082a3f728a8db00.jpg",
+    "static/media/OIP.jpg": "/dsph/static/media/OIP.2b9675b54ef64300d696.jpg",
+    "static/media/unicef-logo.png": "/dsph/static/media/unicef-logo.f3b8a5dd13994d4ea085.png",
+    "static/media/images (86).jpeg": "/dsph/static/media/images (86).0771ca14d9c017163150.jpeg",
+    "static/media/footer-bg.jpg": "/dsph/static/media/footer-bg.93d6a0206c8ea46de612.jpg",
+    "index.html": "/dsph/index.html",
+    "main.a3e74e7c.css.map": "/dsph/static/css/main.a3e74e7c.css.map",
+    "main.bba0d19c.js.map": "/dsph/static/js/main.bba0d19c.js.map",
+    "787.07cc8797.chunk.js.map": "/dsph/static/js/787.07cc8797.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3e74e7c.css",
+    "static/js/main.bba0d19c.js"
+  ]
+}
