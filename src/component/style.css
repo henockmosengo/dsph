@@ -56,6 +56,11 @@ a:hover {
   display: flex;
   justify-content: space-around;
 }
+.direc{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
 h1,
 h2,
 h3,

@@ -92,6 +92,8 @@ export const Menu = () => {
     </section>
   <br />
   <br />
+  <div class="d-flex justify-content-center"><img src={require("./directrice.png")} class="d-block direc w-50" alt="..."/></div>
+  
   <section id="about" class="about section-bg">
       <div class="container" data-aos="fade-up">
         <div class="section-title">
@@ -191,15 +193,48 @@ la solidarité nationale.</p>
                </h2>       
        
         </div>
-   {data.map((item, index) => <div className='' key={index}>
+   {/* {data.map((item, index) => <div className='abc' key={index}>
         <div className='d-1'>{item.id}</div> 
         <div >{item.acronyme}</div>
         <div >{item.nom}</div>  
         <div>{item.risque}</div> 
         <div>{item.categorie}</div>
-         </div>)}
+         </div>)} */}
    </fieldset>
-  
+<div class="container text-center">
+    <div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
+  <div class="row">
+    <div class="col">
+    <h3 class="text-light text-bg-warning"> ID</h3>
+    </div>
+    <div class="col">
+      <h3 class="text-light text-bg-primary">NOM(ONG & ASBL)</h3>
+    </div>
+    <div class="col">
+      <h3 class="text-light text-bg-danger">RISQUE</h3>
+    </div>
+    <div class="col">
+      <h3 class="text-light text-bg-warning">CATEGORIE</h3>
+    </div>
+  </div></div>
+</div>
+<div class="container text-center">
+  {data.map((item, index) => <div class="row">
+    <div class="col" key={index}>
+     {item.id} 
+    </div>
+
+    <div class="col">
+    {item.nom}
+    </div>
+    <div class="col">
+    {item.risque}
+    </div>
+    <div class="col">
+    {item.categorie}
+    </div>
+  </div>)}
+</div>
     {/* <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
 
@@ -489,9 +524,7 @@ constituent ses deux actions.</p>
 
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Social Networks</h4>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
-            <div class="social-links mt-3">
+             <div class="social-links mt-3">
               <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
               <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
               <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
